@@ -7,10 +7,10 @@ Star ⭐ the repo if you like what you see😉.
 
 <table>
   <tr>
-      <td><img src="./screens/img1.jpg" alt="Image 1"></td>
-      <td><img src="./screens/img2.jpg" alt="Image 2"></td>
-      <td><img src="./screens/img3.jpg" alt="Image 3"></td>
-      <td><img src="./screens/img4.jpg" alt="Image 4"></td>
-      <td><img src="./screens/img5.jpg" alt="Image 5"></td>
+      <td><img src="./Screens/img1.jpg" alt="Image 1"></td>
+      <td><img src="./Screens/img2.jpg" alt="Image 2"></td>
+      <td><img src="./Screens/img3.jpg" alt="Image 3"></td>
+      <td><img src="./Screens/img4.jpg" alt="Image 4"></td>
+      <td><img src="./Screens/img5.jpg" alt="Image 5"></td>
   </tr>
 </table>
